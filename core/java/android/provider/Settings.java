@@ -8551,6 +8551,8 @@ public final class Settings {
          */
         public static final String HARDWARE_KEYS_DISABLE = "hardware_keys_disable";
 
+        public static final String HARDWARE_KEYS_FPS_DISABLE = "hardware_keys_fps_disable";
+
         /**
          * The current night mode that has been selected by the user.  Owned
          * and controlled by UiModeManagerService.  Constants are as per
